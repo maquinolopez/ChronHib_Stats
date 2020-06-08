@@ -1,0 +1,11 @@
+Meta data:,Data refering to the etar variation
+LOCUS,
+Year_Lower,Lower dating estimate of text
+Year_Upper,Upper dating estimate of text
+Variant,"0 = e, 1 = i "
+classification,"COMPLEX/NONCOMPLEX/Non-Pretonic (0 = NC, 1 = PC, Non-Pret = 3)"
+POS,
+Note,
+Variation,
+Class,
+TEXTID,
