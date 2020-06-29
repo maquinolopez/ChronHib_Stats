@@ -44,7 +44,7 @@ model
 {
   # Likelihood
   for (i in 1:N) {
-    y[i] ~ dbin(p[i], K)
+    y[i] ~ dbin(p[i], K) # Binomial distribution
     logit(p[i]) <- alpha + beta * x_1[i] + alpha1 * dummies[i,1] + alpha2 * dummies[i,2] + x_1[i] * beta_c1 * dummies[i,1] + x_1[i] * beta_c2 * dummies[i,2]
     x_1[i] ~ dnorm(mu_1[i], sigma_1[i]^-2)
   }
