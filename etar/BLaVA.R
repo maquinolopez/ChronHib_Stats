@@ -1,0 +1,120 @@
+###############################
+# Author:
+# Marco A. Aquino-López
+# Code:
+# Bayesian Logistic Regression
+# with measurement error
+# for early Irish
+###############################
+rm(list=ls()) 
+# Load necesary libraries
+library(R2jags)
+library(boot)   # Package contains the logit transform
+library(DMwR)   # Package contaning the unscale function
+library(dummies)# Package containg the dummy.data.frame() function
+library(beepr)  # Package containing the beep() function
+library(HDInterval)  #Package containng the hdi() function
+
+
+
+BLaVA = function (data, dir ,Run=T,iterations= 7e5, burnin= iterations-7e4,thinning = 125) {
+  
+  textid  <- read.csv(paste0(dir,'/TextID.csv') )
+  data    <- read.csv(paste0(dir,data,'/',data,".csv"))
+  
+  N <- length(data[,1])
+  if (length(data[1,])==5){
+    dummies <- rep(1,length(data[,1] ) ) 
+    dn      <- 1
+    dnif    <- FALSE
+  }else{
+    dummies <- dummy(data[,6])
+    dummies <- cbind(dummies, new_col = rep(1,length(dummies[,1])) )
+    dn      <- length(dummies[1,])
+    dnif    <- TRUE 
+  }
+  
+  
+  # Read dates
+  data$mean <- NA
+  data$sd   <- NA
+  data$lsup <- NA
+  data$linf <- NA
+  for (i in 1:dim(data)[1]){
+    i_d         <- data[i,1]
+    idloc	      <- which(textid$Text_ID==as.character(i_d))
+    data$mean[i] <- textid$mean[idloc]
+    data$sd[i]   <- textid$sd[idloc]
+    data$lsup[i] <- textid$UPPER[idloc]
+    data$linf[i] <- textid$LOWER[idloc]
+  }
+  # scale dates
+  scaled	<- scale(data$mean)			
+  scl_center <- attr(scaled,"scaled:center")
+  scl_scale  <- attr(scaled,"scaled:scale")
+  data$s_mean <- as.numeric(scaled)
+  data$s_sd   <- as.numeric(scale(data$sd,scl_center,scl_scale) )
+  data$s_lin  <- as.numeric(scale(data$linf,scl_center,scl_scale) )
+  data$s_lsp  <- as.numeric(scale(data$lsup,scl_center,scl_scale) )
+
+
+  
+  if (Run == T){
+    model_code = '
+      model
+      {
+        # Likelihood
+        ptmp <- (dummies %*% alpha) + (dummies %*% beta) 
+        for (i in 1:N) {
+          y[i] ~ dbin(p[i], K) # Binomial distribution
+          logit(p[i])  <- ptmp[i]
+          x_1[i] ~ dnorm(mu_1[i], sigma_1[i]^-2)
+        }
+        
+        # Priors
+        for (i in 1:dn){
+          alpha[i] ~ dnorm(0, 10^-2)
+          beta[i]  ~ dnorm(0, 10^-2)
+        }
+      }
+      '
+    # Set up the data
+    model_data = list(N = N, y = data[,4], mu_1 = data$mean, sigma_1 = data$sd,
+                      dummies=dummies,dn=dn,
+                      K = 1)
+    
+    # Choose the parameters to watch
+    model_parameters =  c('alpha','beta',"x_1")
+    
+    # Run the model
+    model_run = jags(data = model_data,n.iter = iterations,n.burnin = burnin,
+                     parameters.to.save = model_parameters,
+                     model.file = textConnection(model_code),n.chains = 3)
+    print(paste0(dir,data,'/',"JAGS_run.Rdata"))
+    save(file=paste0(dir,data,'/',"JAGS_run.Rdata"), list="model_run")
+    mod <- as.mcmc(model_run,thin=thinning)
+  }else{
+    load(paste0(dir,data,'/',"JAGS_run.Rdata"))
+    recompile(object = model_run,n.iter = 1)
+    mod <- as.mcmc(model_run,thin=thinning)
+  }
+  
+  
+  
+  
+}
+
+
+# Test code 
+# Run=T
+# iterations= 7e5
+# burnin= iterations-7e4
+# thinning = 125
+# data = 'etar'
+# dir ="~/github/ChronHib_B-logit/"
+BLaVA('etar',"~/github/ChronHib_B-logit/",iterations = 15000,burnin = 5,thinning = 1) 
+
+
+
+
+

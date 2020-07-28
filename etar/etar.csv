@@ -1,348 +1,348 @@
-LOCUS,Year_Lower,Year_Upper,Variant,Context,POS,Note,Variation,Class
-Sg. 90a2,840,860,1,3,A,,Non-pretonic,Non-Pretonic
-Ml. 18d24,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 19d2,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 19d20,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 24d25,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 24d26,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 25d1,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 26b1,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 34d20,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 35a19,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 37d10,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 38b1,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 38d13,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 39a7,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 39c12,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 47c18,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 53d12,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 56b33,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 58a11,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 59a19,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 65b11,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 69a18,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 76c5,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 92a13,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 97a7,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 102a7,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 103b15,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 103b16,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 103d14,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 114b17,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 122d7,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 128d9,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 135d2,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 136c1.a,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 136c1.b,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 136c3,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 136c4.a,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 136c4.b,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 137c8,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 138d1,780,810,0,1,Prep,,Complex,Pretonic
-Ml. 140a2.a,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 140a2.b,780,810,0,0,Prep,,Non-Complex,Pretonic
-Ml. 38a12,780,810,1,1,Prep,,Complex,Pretonic
-Ml. 138c1,780,810,1,0,Prep,,Non-Complex,Pretonic
-Ml. 15b6 (Deut.),780,810,0,1,Prev,,Complex,Pretonic
-Ml. 19b8,780,810,0,0,Prev,OMIT,Non-Complex,Pretonic
-Ml. 24a19 (Deut.),780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 27d23 (Deut.),780,810,0,1,Prev,,Complex,Pretonic
-Ml. 30c6,780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 33c20,780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 42a17 (Deut.),780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 42c10,780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 42c15,780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 44c31 (Deut.),780,810,0,1,Prev,,Complex,Pretonic
-Ml. 47c10,780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 54d5,780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 54d14 (Deut.),780,810,0,1,Prev,,Complex,Pretonic
-Ml. 61a8 (Deut.),780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 67b4 (Deut.),780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 68c20 (Deut.),780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 73a1 (Deut.),780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 79a11 (Deut.),780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 79b2,780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 81c1 (Deut.),780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 91c1.a,780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 91c1.b,780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 94b12 (Deut.),780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 99a7 (Deut.),780,810,0,1,Prev,,Complex,Pretonic
-Ml. 102a22 (Deut.),780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 114c8 (Deut.),780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 120a3 (Deut.),780,810,0,1,Prev,,Complex,Pretonic
-Ml. 123b10 (Deut.),780,810,0,0,Prev,,Non-Complex,Pretonic
-Ml. 45c6 (Deut.),780,810,1,1,Prev,,Complex,Pretonic
-Ml. 71b5 (Deut.),780,810,1,1,Prev,,Complex,Pretonic
-Ml. 2d2,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 14c2,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 14c9,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 19a13,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 19d18,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 27a5,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 30c5.a,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 30c5.b,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 31a17,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 32a25,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 32b5,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 35a18,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 36b23,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 37b1,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 40d6,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 42b13,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 42b27,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 42c2,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 42c11,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 42d2,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 46c20,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 47a11,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 53c5,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 53c18,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 54d3,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 58a20,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 59a20,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 61b17,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 63a8,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 67b5,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 72c6,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 73a5,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 88d13.a,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 88d13.b,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 89d18,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 103a9,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 101a17,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 107b8,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 107c2,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 109a5,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 110c9,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 110d14,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 111b09,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 111c10,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 111c18,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 113b4,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 114b9,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 117d1,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 120b2,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 123b11,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 124b06,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 129c13,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 138a12,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 135a13,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 138b4,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 138d3,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 140b2,780,810,0,3,Npref,,Non-pretonic,Non-Pretonic
-Ml. 38c28,780,810,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Ml. 72c9,780,810,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Ml. 78b11,780,810,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Ml. 112a8,780,810,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Ml. 119d10,780,810,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Ml. 131c17,780,810,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Ml. 24a19,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 27c4,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 31a17,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 32c19,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 32d5,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 32d5,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 35c1_2,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 36a1,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 37c13,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 44c2,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 46a14,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 51a1,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 56d2,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 61b12,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 63d1,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 69b3,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 73c5,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 76a5,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 79b11,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 82a8,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 90a9,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 99d7,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 102a20,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 103b4,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 103d9,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 106d11,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 107d12,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 114b8,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Ml. 117d4,780,810,0,3,A,,Non-pretonic,Non-Pretonic
-Wb. 5a3,760,780,0,3,A,,Non-pretonic,Non-Pretonic
-Wb. 9b2,760,780,0,3,A,,Non-pretonic,Non-Pretonic
-Wb. 13c5,760,780,0,3,A,,Non-pretonic,Non-Pretonic
-Wb. 13c6,760,780,0,3,A,,Non-pretonic,Non-Pretonic
-Wb. 15b23,760,780,0,3,A,,Non-pretonic,Non-Pretonic
-Wb. 17d19,760,780,0,3,A,,Non-pretonic,Non-Pretonic
-Wb. 19b18,760,780,0,3,A,,Non-pretonic,Non-Pretonic
-Wb. 25d26,760,780,0,3,A,,Non-pretonic,Non-Pretonic
-Wb. 27a20,760,780,0,3,A,,Non-pretonic,Non-Pretonic
-Wb. 29d23,760,780,0,3,A,,Non-pretonic,Non-Pretonic
-Wb. 1b18,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 4b1,760,780,0,3,Npref,Omit,Non-pretonic,Non-Pretonic
-Wb. 4c24,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 8c2,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 9b19,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 12a3,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 12c32,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 12d22,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 12d8,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 13a26,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 13c1,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 13c6,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 14d32,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 14d33,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 15a1,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 15b5,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 15b20,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 15c12,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 15c15,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 18b1,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 21a8,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 23a20,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 23c19,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 24c6,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 25d17,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 25d16,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 26a14,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 26c5,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 26c7,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 26c9,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 26d12,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 26d15,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 26d25,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 27a10,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 27b26,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 29a20,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 29c10,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 30d16,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 33a11,760,780,0,3,Npref,,Non-pretonic,Non-Pretonic
-Wb. 5b34 (Deut.),760,780,1,1,Prev,,Complex,Pretonic
-Wb. 8b3.a (Deut.),760,780,0,0,Prev,,Non-Complex,Pretonic
-Wb. 8b3.b (Deut.),760,780,0,0,Prev,,Non-Complex,Pretonic
-Wb. 9d31 (Deut.),760,780,0,0,Prev,,Non-Complex,Pretonic
-Wb. 12c32 (Deut.),760,780,0,0,Prev,,Non-Complex,Pretonic
-Wb. 13a6,760,780,0,0,Prev,,Non-Complex,Pretonic
-Wb. 7d10.a,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 7d10.b,760,780,0,1,Prep,,Complex,Pretonic
-Wb. 9d26,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 8c20,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 10b21,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 12b12,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 13c26.a,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 13c26.b,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 13c26.c,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 13c26.d,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 13c26.e,760,780,0,0,Prep,Omit,Non-Complex,Pretonic
-Wb. 14b10,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 15a29,760,780,0,1,Prep,,Complex,Pretonic
-Wb. 21b15.a,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 21b15.b,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 22d17,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 23c3,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 23c28,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 26d57,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 27c15.a,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 27c15.b,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 27c36,760,780,0,1,Prep,,Complex,Pretonic
-Wb. 28b03,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 28b32,760,780,0,1,Prep,,Complex,Pretonic
-Wb. 28d25,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 28d27,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 28d31,760,780,0,0,Prep,,Non-Complex,Pretonic
-Wb. 29d20,760,780,0,1,Prep,,Complex,Pretonic
-Wb. 30b27,760,780,0,0,Prep,,Non-Complex,Pretonic
-Sg. 2b2,840,860,0,1,Prep,,Complex,Pretonic
-Sg. 5a9,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 5a12,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 10a4,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 12b6,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 17b1,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 27a4,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 27a9,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 27a18.a,840,860,0,1,Prep,,Complex,Pretonic
-Sg. 27a18.b,840,860,0,1,Prep,,Complex,Pretonic
-Sg. 28a7,840,860,0,1,Prep,,Complex,Pretonic
-Sg. 45b19,840,860,0,1,Prep,,Complex,Pretonic
-Sg. 51b2,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 51b11,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 54b3,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 59a17,840,860,0,1,Prep,,Complex,Pretonic
-Sg. 61b3,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 72a1,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 72a2,840,860,0,1,Prep,,Complex,Pretonic
-Sg. 150b1,840,860,0,1,Prep,,Complex,Pretonic
-Sg. 151b7,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 152a1,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 185b1,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 212a11,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 215a1,840,860,0,0,Prep,,Non-Complex,Pretonic
-Sg. 18a2,840,860,1,0,Prep,,Non-Complex,Pretonic
-Sg. 20b9,840,860,1,1,Prep,,Complex,Pretonic
-Sg. 68b4,840,860,1,0,Prep,,Non-Complex,Pretonic
-Sg. 162a6,840,860,1,0,Prep,,Non-Complex,Pretonic
-Sg. 163b6,840,860,1,0,Prep,,Non-Complex,Pretonic
-Sg. 218a5,840,860,1,0,Prep,,Non-Complex,Pretonic
-Sg. 203a16,840,860,1,1,Prep,,Complex,Pretonic
-Sg. 203b9,840,860,1,0,Prep,,Non-Complex,Pretonic
-Sg. 212a15,840,860,1,0,Prep,,Non-Complex,Pretonic
-K. Aug. Thes.ii.1.2d1,830,850,1,1,Prep,,Complex,Pretonic
-Sg. 14b4 (Deut.),840,860,0,1,Prev,,Complex,Pretonic
-Sg. 29b2,840,860,0,0,Prev,,Non-Complex,Pretonic
-Sg. 73a14,840,860,0,0,Prev,,Non-Complex,Pretonic
-Sg. 73b2 (Deut.),840,860,0,0,Prev,,Non-Complex,Pretonic
-Sg. 157b10 (Deut.),840,860,0,0,Prev,,Non-Complex,Pretonic
-Sg. 197b10,840,860,0,0,Prev,,Non-Complex,Pretonic
-Ench. ZCP.7.490.g60,810,870,0,0,Prev,Prob. Later ,Non-Complex,Pretonic
-Tur. Mark Thes.i.486.37,850,870,0,0,Prev,,Non-Complex,Pretonic
-Tur. Mark Thes.i.487.40 (Deut.),850,870,0,1,Prev,,Complex,Pretonic
-Tur. Mark. Thes.i.493.121 (Deut.),850,870,1,0,Prev,,Non-Complex,Pretonic
-K. Aug. Thes.ii.2.5a1 (Deut.),830,850,1,0,Prev,,Non-Complex,Pretonic
-K. Aug. Thes.ii.2.5d2 (Deut.),830,850,1,1,Prev,,Complex,Pretonic
-K. Bede Thes.ii.14.31b1 (Deut.),830,850,1,0,Prev,,Non-Complex,Pretonic
-K. Prisc. 60b6 (Deut.).,830,850,1,0,Prev,,Non-Complex,Pretonic
-"Ench., ZCP.7.492.g86.",810,870,1,3,Npref,Prob. Later ,Non-pretonic,Non-Pretonic
-Sg. 28b3,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 52a18,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 61a6,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 61b2,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 68b4.a,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 68b4.b,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 73b2,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 74b8,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 75b5,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 159a3,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 166a3,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 188a7,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 188a12,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 197b10.a,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 197b10.b,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 197b11,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 198a2,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 198a3.a,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 198a3.b,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 202b2,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 205b1,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 200b10,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 207b9.a,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 207b9.b,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 220a2,840,860,0,3,Npref,,Non-pretonic,Non-Pretonic
-Tur. Mark Thes.i.485.22,850,870,0,3,Npref,,Non-pretonic,Non-Pretonic
-Tur. Mark Thes.i.488.64,850,870,0,3,Npref,,Non-pretonic,Non-Pretonic
-K. Aug. Thes.ii.2.6a2,830,850,0,3,Npref,,Non-pretonic,Non-Pretonic
-K. Aug. Thes.ii.7.14a1,830,850,0,3,Npref,,Non-pretonic,Non-Pretonic
-K. Bede Thes.ii.14.24d2,830,850,0,3,Npref,,Non-pretonic,Non-Pretonic
-K. Prisc. 66a3,830,850,0,3,Npref,,Non-pretonic,Non-Pretonic
-Sg. 7a4,840,860,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Sg. 10a2,840,860,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Sg. 10a3,840,860,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Sg. 29b17,840,860,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Sg. 38a8,840,860,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Sg. 163b6,840,860,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Sg. 200b7,840,860,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Sg. 209b33,840,860,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Sg. 217b9,840,860,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Sg. 217b11,840,860,0,3,ConjP,,Non-pretonic,Non-Pretonic
-Sg. 25b11,840,860,0,3,A,,Non-pretonic,Non-Pretonic
-Sg. 39a25,840,860,0,3,A,,Non-pretonic,Non-Pretonic
-Sg. 56b1,840,860,0,3,A,,Non-pretonic,Non-Pretonic
-Sg. 71b3,840,860,0,3,A,,Non-pretonic,Non-Pretonic
-Sg. 203b3,840,860,0,3,A,,Non-pretonic,Non-Pretonic
-K. Bede Thes.ii.10.3c,830,850,0,3,A,,Non-pretonic,Non-Pretonic
+TextID,Textual_Unit_ID,VariationID,Variant,Variation,Class
+74,Sg. 90a2,etar,1,Non-pretonic,Non-Pretonic
+6,Ml. 18d24,etar,0,Complex,Pretonic
+6,Ml. 19d2,etar,0,Non-Complex,Pretonic
+6,Ml. 19d20,etar,0,Complex,Pretonic
+6,Ml. 24d25,etar,0,Non-Complex,Pretonic
+6,Ml. 24d26,etar,0,Non-Complex,Pretonic
+6,Ml. 25d1,etar,0,Non-Complex,Pretonic
+6,Ml. 26b1,etar,0,Non-Complex,Pretonic
+6,Ml. 34d20,etar,0,Non-Complex,Pretonic
+6,Ml. 35a19,etar,0,Non-Complex,Pretonic
+6,Ml. 37d10,etar,0,Non-Complex,Pretonic
+6,Ml. 38b1,etar,0,Non-Complex,Pretonic
+6,Ml. 38d13,etar,0,Complex,Pretonic
+6,Ml. 39a7,etar,0,Complex,Pretonic
+6,Ml. 39c12,etar,0,Non-Complex,Pretonic
+6,Ml. 47c18,etar,0,Complex,Pretonic
+6,Ml. 53d12,etar,0,Non-Complex,Pretonic
+6,Ml. 56b33,etar,0,Complex,Pretonic
+6,Ml. 58a11,etar,0,Complex,Pretonic
+6,Ml. 59a19,etar,0,Complex,Pretonic
+6,Ml. 65b11,etar,0,Non-Complex,Pretonic
+6,Ml. 69a18,etar,0,Non-Complex,Pretonic
+6,Ml. 76c5,etar,0,Complex,Pretonic
+6,Ml. 92a13,etar,0,Non-Complex,Pretonic
+6,Ml. 97a7,etar,0,Complex,Pretonic
+6,Ml. 102a7,etar,0,Non-Complex,Pretonic
+6,Ml. 103b15,etar,0,Complex,Pretonic
+6,Ml. 103b16,etar,0,Complex,Pretonic
+6,Ml. 103d14,etar,0,Complex,Pretonic
+6,Ml. 114b17,etar,0,Non-Complex,Pretonic
+6,Ml. 122d7,etar,0,Complex,Pretonic
+6,Ml. 128d9,etar,0,Non-Complex,Pretonic
+6,Ml. 135d2,etar,0,Complex,Pretonic
+6,Ml. 136c1.a,etar,0,Non-Complex,Pretonic
+6,Ml. 136c1.b,etar,0,Non-Complex,Pretonic
+6,Ml. 136c3,etar,0,Non-Complex,Pretonic
+6,Ml. 136c4.a,etar,0,Non-Complex,Pretonic
+6,Ml. 136c4.b,etar,0,Non-Complex,Pretonic
+6,Ml. 137c8,etar,0,Non-Complex,Pretonic
+6,Ml. 138d1,etar,0,Complex,Pretonic
+6,Ml. 140a2.a,etar,0,Non-Complex,Pretonic
+6,Ml. 140a2.b,etar,0,Non-Complex,Pretonic
+6,Ml. 38a12,etar,1,Complex,Pretonic
+6,Ml. 138c1,etar,1,Non-Complex,Pretonic
+6,Ml. 15b6 (Deut.),etar,0,Complex,Pretonic
+6,Ml. 19b8,etar,0,Non-Complex,Pretonic
+6,Ml. 24a19 (Deut.),etar,0,Non-Complex,Pretonic
+6,Ml. 27d23 (Deut.),etar,0,Complex,Pretonic
+6,Ml. 30c6,etar,0,Non-Complex,Pretonic
+6,Ml. 33c20,etar,0,Non-Complex,Pretonic
+6,Ml. 42a17 (Deut.),etar,0,Non-Complex,Pretonic
+6,Ml. 42c10,etar,0,Non-Complex,Pretonic
+6,Ml. 42c15,etar,0,Non-Complex,Pretonic
+6,Ml. 44c31 (Deut.),etar,0,Complex,Pretonic
+6,Ml. 47c10,etar,0,Non-Complex,Pretonic
+6,Ml. 54d5,etar,0,Non-Complex,Pretonic
+6,Ml. 54d14 (Deut.),etar,0,Complex,Pretonic
+6,Ml. 61a8 (Deut.),etar,0,Non-Complex,Pretonic
+6,Ml. 67b4 (Deut.),etar,0,Non-Complex,Pretonic
+6,Ml. 68c20 (Deut.),etar,0,Non-Complex,Pretonic
+6,Ml. 73a1 (Deut.),etar,0,Non-Complex,Pretonic
+6,Ml. 79a11 (Deut.),etar,0,Non-Complex,Pretonic
+6,Ml. 79b2,etar,0,Non-Complex,Pretonic
+6,Ml. 81c1 (Deut.),etar,0,Non-Complex,Pretonic
+6,Ml. 91c1.a,etar,0,Non-Complex,Pretonic
+6,Ml. 91c1.b,etar,0,Non-Complex,Pretonic
+6,Ml. 94b12 (Deut.),etar,0,Non-Complex,Pretonic
+6,Ml. 99a7 (Deut.),etar,0,Complex,Pretonic
+6,Ml. 102a22 (Deut.),etar,0,Non-Complex,Pretonic
+6,Ml. 114c8 (Deut.),etar,0,Non-Complex,Pretonic
+6,Ml. 120a3 (Deut.),etar,0,Complex,Pretonic
+6,Ml. 123b10 (Deut.),etar,0,Non-Complex,Pretonic
+6,Ml. 45c6 (Deut.),etar,1,Complex,Pretonic
+6,Ml. 71b5 (Deut.),etar,1,Complex,Pretonic
+6,Ml. 2d2,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 14c2,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 14c9,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 19a13,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 19d18,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 27a5,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 30c5.a,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 30c5.b,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 31a17,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 32a25,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 32b5,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 35a18,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 36b23,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 37b1,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 40d6,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 42b13,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 42b27,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 42c2,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 42c11,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 42d2,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 46c20,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 47a11,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 53c5,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 53c18,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 54d3,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 58a20,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 59a20,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 61b17,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 63a8,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 67b5,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 72c6,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 73a5,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 88d13.a,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 88d13.b,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 89d18,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 103a9,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 101a17,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 107b8,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 107c2,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 109a5,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 110c9,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 110d14,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 111b09,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 111c10,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 111c18,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 113b4,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 114b9,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 117d1,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 120b2,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 123b11,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 124b06,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 129c13,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 138a12,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 135a13,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 138b4,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 138d3,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 140b2,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 38c28,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 72c9,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 78b11,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 112a8,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 119d10,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 131c17,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 24a19,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 27c4,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 31a17,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 32c19,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 32d5,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 32d5,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 35c1_2,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 36a1,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 37c13,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 44c2,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 46a14,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 51a1,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 56d2,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 61b12,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 63d1,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 69b3,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 73c5,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 76a5,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 79b11,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 82a8,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 90a9,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 99d7,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 102a20,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 103b4,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 103d9,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 106d11,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 107d12,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 114b8,etar,0,Non-pretonic,Non-Pretonic
+6,Ml. 117d4,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 5a3,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 9b2,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 13c5,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 13c6,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 15b23,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 17d19,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 19b18,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 25d26,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 27a20,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 29d23,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 1b18,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 4b1,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 4c24,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 8c2,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 9b19,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 12a3,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 12c32,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 12d22,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 12d8,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 13a26,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 13c1,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 13c6,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 14d32,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 14d33,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 15a1,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 15b5,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 15b20,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 15c12,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 15c15,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 18b1,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 21a8,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 23a20,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 23c19,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 24c6,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 25d17,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 25d16,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 26a14,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 26c5,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 26c7,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 26c9,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 26d12,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 26d15,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 26d25,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 27a10,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 27b26,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 29a20,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 29c10,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 30d16,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 33a11,etar,0,Non-pretonic,Non-Pretonic
+80,Wb. 5b34 (Deut.),etar,1,Complex,Pretonic
+80,Wb. 8b3.a (Deut.),etar,0,Non-Complex,Pretonic
+80,Wb. 8b3.b (Deut.),etar,0,Non-Complex,Pretonic
+80,Wb. 9d31 (Deut.),etar,0,Non-Complex,Pretonic
+80,Wb. 12c32 (Deut.),etar,0,Non-Complex,Pretonic
+80,Wb. 13a6,etar,0,Non-Complex,Pretonic
+80,Wb. 7d10.a,etar,0,Non-Complex,Pretonic
+80,Wb. 7d10.b,etar,0,Complex,Pretonic
+80,Wb. 9d26,etar,0,Non-Complex,Pretonic
+80,Wb. 8c20,etar,0,Non-Complex,Pretonic
+80,Wb. 10b21,etar,0,Non-Complex,Pretonic
+80,Wb. 12b12,etar,0,Non-Complex,Pretonic
+80,Wb. 13c26.a,etar,0,Non-Complex,Pretonic
+80,Wb. 13c26.b,etar,0,Non-Complex,Pretonic
+80,Wb. 13c26.c,etar,0,Non-Complex,Pretonic
+80,Wb. 13c26.d,etar,0,Non-Complex,Pretonic
+80,Wb. 13c26.e,etar,0,Non-Complex,Pretonic
+80,Wb. 14b10,etar,0,Non-Complex,Pretonic
+80,Wb. 15a29,etar,0,Complex,Pretonic
+80,Wb. 21b15.a,etar,0,Non-Complex,Pretonic
+80,Wb. 21b15.b,etar,0,Non-Complex,Pretonic
+80,Wb. 22d17,etar,0,Non-Complex,Pretonic
+80,Wb. 23c3,etar,0,Non-Complex,Pretonic
+80,Wb. 23c28,etar,0,Non-Complex,Pretonic
+80,Wb. 26d57,etar,0,Non-Complex,Pretonic
+80,Wb. 27c15.a,etar,0,Non-Complex,Pretonic
+80,Wb. 27c15.b,etar,0,Non-Complex,Pretonic
+80,Wb. 27c36,etar,0,Complex,Pretonic
+80,Wb. 28b03,etar,0,Non-Complex,Pretonic
+80,Wb. 28b32,etar,0,Complex,Pretonic
+80,Wb. 28d25,etar,0,Non-Complex,Pretonic
+80,Wb. 28d27,etar,0,Non-Complex,Pretonic
+80,Wb. 28d31,etar,0,Non-Complex,Pretonic
+80,Wb. 29d20,etar,0,Complex,Pretonic
+80,Wb. 30b27,etar,0,Non-Complex,Pretonic
+74,Sg. 2b2,etar,0,Complex,Pretonic
+74,Sg. 5a9,etar,0,Non-Complex,Pretonic
+74,Sg. 5a12,etar,0,Non-Complex,Pretonic
+74,Sg. 10a4,etar,0,Non-Complex,Pretonic
+74,Sg. 12b6,etar,0,Non-Complex,Pretonic
+74,Sg. 17b1,etar,0,Non-Complex,Pretonic
+74,Sg. 27a4,etar,0,Non-Complex,Pretonic
+74,Sg. 27a9,etar,0,Non-Complex,Pretonic
+74,Sg. 27a18.a,etar,0,Complex,Pretonic
+74,Sg. 27a18.b,etar,0,Complex,Pretonic
+74,Sg. 28a7,etar,0,Complex,Pretonic
+74,Sg. 45b19,etar,0,Complex,Pretonic
+74,Sg. 51b2,etar,0,Non-Complex,Pretonic
+74,Sg. 51b11,etar,0,Non-Complex,Pretonic
+74,Sg. 54b3,etar,0,Non-Complex,Pretonic
+74,Sg. 59a17,etar,0,Complex,Pretonic
+74,Sg. 61b3,etar,0,Non-Complex,Pretonic
+74,Sg. 72a1,etar,0,Non-Complex,Pretonic
+74,Sg. 72a2,etar,0,Complex,Pretonic
+74,Sg. 150b1,etar,0,Complex,Pretonic
+74,Sg. 151b7,etar,0,Non-Complex,Pretonic
+74,Sg. 152a1,etar,0,Non-Complex,Pretonic
+74,Sg. 185b1,etar,0,Non-Complex,Pretonic
+74,Sg. 212a11,etar,0,Non-Complex,Pretonic
+74,Sg. 215a1,etar,0,Non-Complex,Pretonic
+74,Sg. 18a2,etar,1,Non-Complex,Pretonic
+74,Sg. 20b9,etar,1,Complex,Pretonic
+74,Sg. 68b4,etar,1,Non-Complex,Pretonic
+74,Sg. 162a6,etar,1,Non-Complex,Pretonic
+74,Sg. 163b6,etar,1,Non-Complex,Pretonic
+74,Sg. 218a5,etar,1,Non-Complex,Pretonic
+74,Sg. 203a16,etar,1,Complex,Pretonic
+74,Sg. 203b9,etar,1,Non-Complex,Pretonic
+74,Sg. 212a15,etar,1,Non-Complex,Pretonic
+21,K. Aug. Thes.ii.1.2d1,etar,1,Complex,Pretonic
+74,Sg. 14b4 (Deut.),etar,0,Complex,Pretonic
+74,Sg. 29b2,etar,0,Non-Complex,Pretonic
+74,Sg. 73a14,etar,0,Non-Complex,Pretonic
+74,Sg. 73b2 (Deut.),etar,0,Non-Complex,Pretonic
+74,Sg. 157b10 (Deut.),etar,0,Non-Complex,Pretonic
+74,Sg. 197b10,etar,0,Non-Complex,Pretonic
+77,Ench. ZCP.7.490.g60,etar,0,Non-Complex,Pretonic
+50,Tur. Mark Thes.i.486.37,etar,0,Non-Complex,Pretonic
+50,Tur. Mark Thes.i.487.40 (Deut.),etar,0,Complex,Pretonic
+50,Tur. Mark. Thes.i.493.121 (Deut.),etar,1,Non-Complex,Pretonic
+21,K. Aug. Thes.ii.2.5a1 (Deut.),etar,1,Non-Complex,Pretonic
+21,K. Aug. Thes.ii.2.5d2 (Deut.),etar,1,Complex,Pretonic
+22,K. Bede Thes.ii.14.31b1 (Deut.),etar,1,Non-Complex,Pretonic
+9,K. Prisc. 60b6 (Deut.).,etar,1,Non-Complex,Pretonic
+77,"Ench., ZCP.7.492.g86.",etar,1,Non-pretonic,Non-Pretonic
+74,Sg. 28b3,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 52a18,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 61a6,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 61b2,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 68b4.a,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 68b4.b,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 73b2,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 74b8,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 75b5,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 159a3,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 166a3,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 188a7,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 188a12,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 197b10.a,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 197b10.b,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 197b11,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 198a2,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 198a3.a,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 198a3.b,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 202b2,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 205b1,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 200b10,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 207b9.a,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 207b9.b,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 220a2,etar,0,Non-pretonic,Non-Pretonic
+50,Tur. Mark Thes.i.485.22,etar,0,Non-pretonic,Non-Pretonic
+50,Tur. Mark Thes.i.488.64,etar,0,Non-pretonic,Non-Pretonic
+21,K. Aug. Thes.ii.2.6a2,etar,0,Non-pretonic,Non-Pretonic
+21,K. Aug. Thes.ii.7.14a1,etar,0,Non-pretonic,Non-Pretonic
+22,K. Bede Thes.ii.14.24d2,etar,0,Non-pretonic,Non-Pretonic
+9,K. Prisc. 66a3,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 7a4,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 10a2,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 10a3,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 29b17,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 38a8,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 163b6,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 200b7,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 209b33,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 217b9,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 217b11,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 25b11,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 39a25,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 56b1,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 71b3,etar,0,Non-pretonic,Non-Pretonic
+74,Sg. 203b3,etar,0,Non-pretonic,Non-Pretonic
+22,K. Bede Thes.ii.10.3c,etar,0,Non-pretonic,Non-Pretonic

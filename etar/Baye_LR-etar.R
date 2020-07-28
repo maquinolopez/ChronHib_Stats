@@ -25,7 +25,7 @@ burn     = iter-7e4
 thinning = 125
 
 # Read data
-etar <- read.csv("~/github/ChronHib_B-logit/Data/etar/etar.csv")
+etar <- read.csv("~/github/ChronHib_B-logit/etar/etar-orig.csv")
 N <- length(etar$Year_Upper)
 etar$Year_Lower <- eta$Year_Lower
 etar$Year_Upper <- etar$Year_Upper

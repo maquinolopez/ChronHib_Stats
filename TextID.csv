@@ -77,8 +77,8 @@ Text_ID,title,LOWER,UPPER,Weight,Late MS?,mean,sd
 76,Zurich_De_Locis_Sanctis,800,842,800,,821,7
 77,Einsiedeln_Computus,689,719,,,704,5
 78,Bern_Donatus,685,715,715,,700,5
-XXXX,Würzburg Glosses (prima manus),685,715,715,,700,5
-XXXX,Würzburg Glosses (main body of glosses),750,770,,,760,3.33333333333333
+79,Würzburg Glosses (prima manus),685,715,715,,700,5
+80,Würzburg Glosses (main body of glosses),750,770,,,760,3.33333333333333
 554,AU 554,554,554.99,554,,554.495,0.165000000000002
 555,AU 555,555,555.99,555,,555.495,0.165000000000002
 556,AU 556,556,556.99,556,,556.495,0.165000000000002
